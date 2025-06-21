@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mihail Iazinschi!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;ML+%26+Desktop+Development+Fusion;Web+%26+Freelance+Developer;Low-Level+Programming+Expert;AI-Powered+Desktop+Applications!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;ML+%26+Desktop+Development+Fusion;Web+%26+Freelance+Developer;Low-Level+Programming;AI-Powered+Desktop+Applications!" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
@@ -85,16 +85,11 @@ class Misoding:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Misoding&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Misoding&layout=compact&langs_count=8&theme=algolia"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misoding&theme=algolia" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Featured Projects
 
 <div align="center">
 
-[![ML Desktop Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=Misoding&repo=pclp2-advanced-algorithms&theme=algolia)](https://github.com/Misoding/pclp2-advanced-algorithms)
+[![ML Desktop Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=Misoding&repo=pclp2-advanced-algorithms&theme=algolia)](https://github.com/Misoding/Asm-algorithms)
 [![Intelligent Browser Simulation](https://github-readme-stats.vercel.app/api/pin/?username=Misoding&repo=Browser-Simulation&theme=algolia)](https://github.com/Misoding/Browser-Simulation)
 
 </div>
@@ -256,7 +251,7 @@ graph LR
 - **Freelance ML Desktop Development**
 - **Research projects** in applied ML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihail-iazinschi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Misoding)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihail.iazinschi@stud.acs.upb.ro)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Misoding)
 
