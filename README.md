@@ -89,7 +89,7 @@ class Misoding:
 
 <div align="center">
 
-[![ML Desktop Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=Misoding&repo=pclp2-advanced-algorithms&theme=algolia)](https://github.com/Misoding/Asm-algorithms)
+[![ML Desktop Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=Misoding&repo=Asm-algorithms&theme=algolia)](https://github.com/Misoding/Asm-algorithms)
 [![Intelligent Browser Simulation](https://github-readme-stats.vercel.app/api/pin/?username=Misoding&repo=Browser-Simulation&theme=algolia)](https://github.com/Misoding/Browser-Simulation)
 
 </div>
