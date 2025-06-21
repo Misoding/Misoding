@@ -7,7 +7,7 @@
 ## 🎯 About Me
 
 ```python
-class MihailIazinschi:
+class Misoding:
     def __init__(self):
         self.university = "University POLITEHNICA of Bucharest"
         self.faculty = "Faculty of Automatic Control and Computers"
@@ -82,20 +82,20 @@ class MihailIazinschi:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihailiazinschi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mihailiazinschi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Misoding&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Misoding&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihailiazinschi&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misoding&theme=algolia" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Featured Projects
 
 <div align="center">
 
-[![ML Desktop Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mihailiazinschi&repo=pclp2-advanced-algorithms&theme=algolia)](https://github.com/mihailiazinschi/pclp2-advanced-algorithms)
-[![Intelligent Browser Simulation](https://github-readme-stats.vercel.app/api/pin/?username=mihailiazinschi&repo=Browser-Simulation&theme=algolia)](https://github.com/mihailiazinschi/Browser-Simulation)
+[![ML Desktop Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=Misoding&repo=pclp2-advanced-algorithms&theme=algolia)](https://github.com/Misoding/pclp2-advanced-algorithms)
+[![Intelligent Browser Simulation](https://github-readme-stats.vercel.app/api/pin/?username=Misoding&repo=Browser-Simulation&theme=algolia)](https://github.com/Misoding/Browser-Simulation)
 
 </div>
 
@@ -208,7 +208,7 @@ current_projects = {
 ## 📈 Learning Path: Academic → Commercial → ML Integration
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihailiazinschi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misoding&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
 
 ## 🛠️ Skillset Evolution
@@ -258,14 +258,14 @@ graph LR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mihail-iazinschi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihail.iazinschi@stud.acs.upb.ro)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihailiazinschi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Misoding)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mihailiazinschi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Misoding&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
   ### 💡 "The future belongs to applications that think and perform natively."
   
